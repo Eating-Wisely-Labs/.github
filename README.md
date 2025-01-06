@@ -1,1 +1,1 @@
-![brand-image](https://raw.githubusercontent.com/Eating-Wisely-Labs/.github/refs/heads/main/assets/brand.png)
+![brand-image](https://github.com/Eating-Wisely-Labs/.github/blob/main/assets/banner.png?raw=true)
