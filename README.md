@@ -1,1 +1,1 @@
-# .github
+![brand-image](https://raw.githubusercontent.com/Eating-Wisely-Labs/.github/refs/heads/main/assets/brand.png)
